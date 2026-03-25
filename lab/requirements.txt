@@ -1,0 +1,4 @@
+# Python dependencies for IP Fragmentation Attack Lab
+# Install with: pip install -r requirements.txt
+
+scapy>=2.5.0
